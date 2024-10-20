@@ -1,0 +1,10 @@
+C:\chat\Genetic_Algorithm\obj\Release\Genetic_Algorithm.csproj.AssemblyReference.cache
+C:\chat\Genetic_Algorithm\obj\Release\GeneticAlgorithm.Form1.resources
+C:\chat\Genetic_Algorithm\obj\Release\Genetic_Algorithm.csproj.GenerateResource.cache
+C:\chat\Genetic_Algorithm\obj\Release\Genetic_Algorithm.csproj.CoreCompileInputs.cache
+C:\chat\Genetic_Algorithm\bin\Release\Genetic_Algorithm.exe.config
+C:\chat\Genetic_Algorithm\bin\Release\Genetic_Algorithm.exe
+C:\chat\Genetic_Algorithm\bin\Release\Genetic_Algorithm.pdb
+C:\chat\Genetic_Algorithm\obj\Release\Genetic_Algorithm.Properties.Resources.resources
+C:\chat\Genetic_Algorithm\obj\Release\Genetic_Algorithm.exe
+C:\chat\Genetic_Algorithm\obj\Release\Genetic_Algorithm.pdb

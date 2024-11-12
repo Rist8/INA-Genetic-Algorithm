@@ -1,5 +1,8 @@
-﻿using System;
+﻿using GeneticAlgorithm;
+using System;
 using System.Collections;
+using System.Collections.Generic;
+using System.Drawing;
 using System.Text;
 
 namespace UtilityNamespace
@@ -7,7 +10,7 @@ namespace UtilityNamespace
     public static class Utility
     {
 
-        public static Random myRandom = new Random();
+        public static Random myRandom = new Random((int)(DateTime.Now.Ticks % int.MaxValue));
         public static string BinToString(this BitArray bits)
         {
             var sb = new StringBuilder();
